@@ -1,4 +1,4 @@
-\documentclass[a4paper, 12pt]{article}
+\documentclass[a4paper, 12pt, oneside]{article}
 \usepackage{array}
 \usepackage{etaremune}
 \usepackage{amsmath}
@@ -12,6 +12,8 @@
 \usepackage{caption}
 \usepackage{wrapfig}
 \usepackage[table]{xcolor}
+\usepackage{fancyhdr}
+
 
 \begin{document}
 	\thispagestyle{empty}
@@ -22,7 +24,7 @@
 	\begin{figure}[b]
 		\caption*{\rule{\textwidth}{2pt}}
 		\includegraphics[width=2cm, height=2cm]{C:/Users/akos/Downloads/SRA_logo}
-		\tiny \caption*{v1.4.0}
+		\tiny \caption*{| v2.0.0 |}
 	\end{figure}
 	
 	\newpage
@@ -45,7 +47,9 @@
 	The Administrator (with permission)\\ \-\\
 	
 	\newpage
+	\pagestyle{fancy}
 	
+	\fancyhead[L]{ITAA SP HAZ 800-001A} \-\\
 	\centering \large \textbf{Abstract} \\\raggedright \normalsize \-\\
 	This regulation document is intended to serve hazmat units within the Superstructure, and to adapt to newer technologies now available, along with increased relative safety standards. This Special Publication (SP) is the first one of its kind, but will be iterated on.\\ \-\\\mbox{ }
 	
@@ -53,7 +57,7 @@
 	confidentiality; critical infrastructure; Administrative directives; mandates; policy; standards. \\ \-\\\mbox{ }
 	
 	\centering \large \textbf{Acknowledgments} \\\raggedright \normalsize \-\\
-	The author wishes to thank lizuwubeth (xmatyo5), along with those colleagues who ensured this regulation isn't miles below standard. The author also gratefully acknowledge and appreciate the many comments from the public and private sectors whose 'thoughtful' and 'constructive' comments improved the quality and usefulness of this publication
+	The author wishes to thank those colleagues who ensured this regulation didn't sink miles below standard. The author also gratefully acknowledge and appreciate the many comments from the public and private sectors whose 'thoughtful' and 'constructive' comments improved the quality and usefulness of this publication
 	
 	\newpage
 	
@@ -87,7 +91,7 @@
 		\subsection{Document Organization}
 		- Section 1 provides an introduction to this document, including its background and
 		purpose, and a list of acronyms used herein. \\
-		- Section 2 provides basic filter identification. \\
+		- Section 2 provides information on basic filter identification. \\
 		- Section 3 describes information on what should be the base main filter types, the size standards of said filter types, and accepted filter casing materials. \\
 		- Section 4 provides other information.
 			
@@ -152,8 +156,10 @@
 					Particulate & P-type and B-type inserts only. & Hi/Lo \\
 					Vapour & May contain all inserts excluding RK-type. & Hi/Lo \\\hline	
 				\end{tabular} \\ \-\\
-				\small *Do note that these are the expected durations, and can be exceeded, however if the design falls short of these standards, the BoD may be advised in order to test if the filter is still sufficient for use. \normalsize
+				\small *Do note that these are the expected durations, and can be exceeded, however if the design falls short of these standards, the BoD may be advised in order to test if the filter is still sufficient for use. \normalsize \\ \-\\
 		\subsection{Main Filter Parameters}
+			Large filters (above diameterx10) are to be connected to a hose connecting to both the respirator and filter, to be stored inside a suitable containter. \\ \-\\
+			
 			\subsubsection{Sizes \& Casings Chart}
 				\begin{tabular}{|p{4cm}||p{3cm}|p{5.45cm}|}
 					\hline
@@ -188,14 +194,24 @@
 					Lo-Vapour[XHD] & 10(cm)x25(cm) & Nomex / Titanium Blend \\\hline
 				\end{tabular} \-\\
 				\small Format is as following: Radius(cm/mm) x length(cm). \\
-				Other filter casings can be discussed with the BoD.
+				Other filter casing sizes \& materials can be discussed with the BoD.
 			
 	\newpage
 			
-	\section{Other}
-		\subsection{Important}
-			\subsubsection{Main}
-			\subsubsection{Sources}
-			https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175A.pdf (helped in document construction, also borrowed some text to reformat)
-			https://whiteknuckle.miraheze.org/wiki/White\_Knuckle\_Wiki (bery goodies game, go play it, this is a fan-document for wuckle anyways)
+	\section{Other}\-\\
+		\subsection{Sources}
+			\subsubsection{Links}
+				\url{https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175A.pdf}i (helped in document construction, also borrowed some text to reformat)
+				\url{https://whiteknuckle.miraheze.org/wiki/White_Knuckle_Wiki} (bery goodies game, go play it, this is a fan-document for wuckle anyways) \\ \-\\
+			\subsubsection{People}
+				lizuwubeth (xmatyo5) | [Critic] \\
+				Wold (wold123) [Moral | Help] \\
+				JB-20 (joyousbicycle20) | [Quality Assurance] \\
+				gkugfk3 (gkugfk3) | [Quality Assurance] \\
+	\begin{figure}[b]
+		\centering
+		\includegraphics[width=5cm, height=5cm]{C:/Users/akos/Downloads/itaa-gud}
+		\caption*{TAKE YOUR COGNITIVOL}
+	\end{figure}
+	
 \end{document}

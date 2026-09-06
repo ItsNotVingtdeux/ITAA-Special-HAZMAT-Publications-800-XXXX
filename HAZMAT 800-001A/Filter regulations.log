@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  3 SEP 2026 18:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  6 SEP 2026 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,25 +515,44 @@ Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
 \minrowclearance=\skip80
 \rownum=\count437
 )
+(D:\3LaTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip81
+\f@nch@offset@elh=\skip82
+\f@nch@offset@erh=\skip83
+\f@nch@offset@olh=\skip84
+\f@nch@offset@orh=\skip85
+\f@nch@offset@elf=\skip86
+\f@nch@offset@erf=\skip87
+\f@nch@offset@olf=\skip88
+\f@nch@offset@orf=\skip89
+\f@nch@height=\skip90
+\f@nch@footalignment=\skip91
+\f@nch@widthL=\skip92
+\f@nch@widthC=\skip93
+\f@nch@widthR=\skip94
+\@temptokenb=\toks28
+)
 \@quotelevel=\count438
 \@quotereset=\count439
  (Filter regulations.aux)
 \openout1 = `"Filter regulations.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 (D:\3LaTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -542,12 +561,12 @@ LaTeX Font Info:    ... okay on input line 16.
 \scratchbox=\box58
 \nofMPsegments=\count441
 \nofMParguments=\count442
-\everyMPshowfont=\toks28
+\everyMPshowfont=\toks29
 \MPscratchCnt=\count443
 \MPscratchDim=\dimen195
 \MPnumerator=\count444
 \makeMPintoPDFobject=\count445
-\everyMPtoPDFconversion=\toks29
+\everyMPtoPDFconversion=\toks30
 ) (D:\3LaTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -571,8 +590,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"Filter regulations".bbl' not found.
 
 No file "Filter regulations".bbl.
-Package biblatex Info: Reference section=0 on input line 16.
-Package biblatex Info: Reference segment=0 on input line 16.
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -614,66 +633,127 @@ Package caption Info: End \AtBeginDocument code.
 File: C:/Users/akos/Downloads/SRA_logo.png Graphic file (type png)
 <use C:/Users/akos/Downloads/SRA_logo.png>
 Package pdftex.def Info: C:/Users/akos/Downloads/SRA_logo.png  used on input li
-ne 24.
+ne 26.
 (pdftex.def)             Requested size: 56.90553pt x 56.90553pt.
 [1
 
 {C:/Users/akos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/akos
 /Downloads/SRA_logo.png>]
-Overfull \hbox (47.94438pt too wide) in paragraph at lines 36--42
+Overfull \hbox (47.94438pt too wide) in paragraph at lines 38--44
  [][] 
  []
 
-[2] [3] (Filter regulations.toc)
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] (Filter regulations.toc)
 \tf@toc=\write4
 \openout4 = `"Filter regulations.toc"'.
 
- [4] [5]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 104--104
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 108--108
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 122--122
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 126--126
 []|\OT1/cmr/m/n/12 Types| 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 140--140
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 144--144
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 149--149
+Overfull \hbox (2.61916pt too wide) in paragraph at lines 153--153
 []|\OT1/cmr/m/n/12 Types| 
  []
 
 
-Overfull \hbox (4.39775pt too wide) in paragraph at lines 150--150
+Overfull \hbox (4.39775pt too wide) in paragraph at lines 154--154
 []|\OT1/cmr/m/n/12 Omni(Combined)| 
  []
 
 
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 150--151
+Overfull \hbox (2.71083pt too wide) in paragraph at lines 154--155
 []|\OT1/cmr/m/n/12 Hi/Lo| 
  []
 
 
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 151--152
+Overfull \hbox (2.71083pt too wide) in paragraph at lines 155--156
 []|\OT1/cmr/m/n/12 Hi/Lo| 
  []
 
 
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 152--153
+Overfull \hbox (2.71083pt too wide) in paragraph at lines 156--157
 []|\OT1/cmr/m/n/12 Hi/Lo| 
  []
 
 
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 153--153
+Overfull \hbox (2.71083pt too wide) in paragraph at lines 157--157
 []|\OT1/cmr/m/n/12 Hi/Lo| 
  []
 
-[7] [8] [9] (Filter regulations.aux)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+<C:/Users/akos/Downloads/itaa-gud.png, id=35, 1084.05pt x 1082.0425pt>
+File: C:/Users/akos/Downloads/itaa-gud.png Graphic file (type png)
+<use C:/Users/akos/Downloads/itaa-gud.png>
+Package pdftex.def Info: C:/Users/akos/Downloads/itaa-gud.png  used on input li
+ne 213.
+(pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <C:/Users/akos/Downloads/itaa-gud.png>] (Filter regulations.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -684,24 +764,25 @@ Package logreq Info: Writing requests to '"Filter regulations".run.xml'.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 18 ({)
+### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13172 strings out of 467870
- 239127 string characters out of 5435193
- 1106727 words of memory out of 5000000
- 41916 multiletter control sequences out of 15000+600000
- 633555 words of font info for 60 fonts, out of 8000000 for 9000
+ 13539 strings out of 467870
+ 246223 string characters out of 5435193
+ 1113954 words of memory out of 5000000
+ 42277 multiletter control sequences out of 15000+600000
+ 634915 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,117p,711b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,117p,711b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3LaTeX
 /fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/3LaTeX/fonts/type1/public/amsfont
 s/cm/cmr10.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3LaTeX/f
 onts/type1/public/amsfonts/cm/cmr8.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb>
-Output written on "Filter regulations.pdf" (9 pages, 113034 bytes).
+m/cmsl12.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/3LaTeX/fon
+ts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Filter regulations.pdf" (9 pages, 688173 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

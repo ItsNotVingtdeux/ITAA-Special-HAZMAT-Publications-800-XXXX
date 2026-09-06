@@ -10,9 +10,9 @@
 \contentsline {subsection}{\numberline {3.1}Main Filter Types}{7}{}%
 \contentsline {subsubsection}{\numberline {3.1.1}Main Filter Duration Chart*}{7}{}%
 \contentsline {subsubsection}{\numberline {3.1.2}Main Filter Type Chart}{7}{}%
-\contentsline {subsection}{\numberline {3.2}Main Filter Parameters}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Main Filter Parameters}{7}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}Sizes \& Casings Chart}{8}{}%
 \contentsline {section}{\numberline {4}Other}{9}{}%
-\contentsline {subsection}{\numberline {4.1}Important}{9}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Main}{9}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}Sources}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Sources}{9}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Links}{9}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}People}{9}{}%
