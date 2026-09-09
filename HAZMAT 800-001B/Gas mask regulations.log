@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  9 SEP 2026 19:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  9 SEP 2026 19:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./Filter regulations.tex"
-(Filter regulations.tex
+**"./Gas mask regulations.tex"
+(Gas mask regulations.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (D:\3LaTeX\tex/latex/base\article.cls
@@ -536,8 +536,8 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 )
 \@quotelevel=\count438
 \@quotereset=\count439
- (Filter regulations.aux)
-\openout1 = `"Filter regulations.aux"'.
+ (Gas mask regulations.aux)
+\openout1 = `"Gas mask regulations.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -584,12 +584,12 @@ File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `"Filter regulations.bcf"'.
+\openout3 = `"Gas mask regulations.bcf"'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file '"Filter regulations".bbl' not found.
+Package biblatex Info: ... file '"Gas mask regulations".bbl' not found.
 
-No file "Filter regulations".bbl.
+No file "Gas mask regulations".bbl.
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
 *geometry* driver: auto-detecting
@@ -651,9 +651,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (Filter regulations.toc)
+[3] (Gas mask regulations.toc)
 \tf@toc=\write4
-\openout4 = `"Filter regulations.toc"'.
+\openout4 = `"Gas mask regulations.toc"'.
 
 
 
@@ -672,15 +672,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 107--107
-[]|\OT1/cmr/m/n/12 Types| 
- []
-
-
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 125--125
-[]|\OT1/cmr/m/n/12 Types| 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -688,78 +679,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 143--143
-[]|\OT1/cmr/m/n/12 Types| 
- []
-
-
-Overfull \hbox (2.61916pt too wide) in paragraph at lines 152--152
-[]|\OT1/cmr/m/n/12 Types| 
- []
-
-
-Overfull \hbox (4.39775pt too wide) in paragraph at lines 153--153
-[]|\OT1/cmr/m/n/12 Omni(Combined)| 
- []
-
-
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 153--154
-[]|\OT1/cmr/m/n/12 Hi/Lo| 
- []
-
-
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 154--155
-[]|\OT1/cmr/m/n/12 Hi/Lo| 
- []
-
-
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 155--156
-[]|\OT1/cmr/m/n/12 Hi/Lo| 
- []
-
-
-Overfull \hbox (2.71083pt too wide) in paragraph at lines 156--156
-[]|\OT1/cmr/m/n/12 Hi/Lo| 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-<C:/Users/akos/Downloads/itaa-gud.png, id=35, 1084.05pt x 1082.0425pt>
-File: C:/Users/akos/Downloads/itaa-gud.png Graphic file (type png)
-<use C:/Users/akos/Downloads/itaa-gud.png>
-Package pdftex.def Info: C:/Users/akos/Downloads/itaa-gud.png  used on input li
-ne 212.
-(pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9 <C:/Users/akos/Downloads/itaa-gud.png>] (Filter regulations.aux)
+[6] (Gas mask regulations.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-Package logreq Info: Writing requests to '"Filter regulations".run.xml'.
-\openout1 = `"Filter regulations.run.xml"'.
+Package logreq Info: Writing requests to '"Gas mask regulations".run.xml'.
+\openout1 = `"Gas mask regulations.run.xml"'.
 
  )
 (\end occurred inside a group at level 1)
@@ -767,22 +693,19 @@ Package logreq Info: Writing requests to '"Filter regulations".run.xml'.
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13539 strings out of 467870
- 246223 string characters out of 5435193
- 1113954 words of memory out of 5000000
- 42277 multiletter control sequences out of 15000+600000
- 634915 words of font info for 65 fonts, out of 8000000 for 9000
+ 13522 strings out of 467870
+ 245716 string characters out of 5435193
+ 1101960 words of memory out of 5000000
+ 42261 multiletter control sequences out of 15000+600000
+ 633607 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,117p,711b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,117p,713b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3LaTeX
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/3LaTeX/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3LaTeX/f
-onts/type1/public/amsfonts/cm/cmr8.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/c
-m/cmsl12.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/3LaTeX/fon
-ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Filter regulations.pdf" (9 pages, 688191 bytes).
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3LaTeX/fonts/type1/public/amsfont
+s/cm/cmsl12.pfb>
+Output written on "Gas mask regulations.pdf" (6 pages, 63645 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
