@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  9 SEP 2026 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.30)  9 SEP 2026 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -679,7 +679,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6] (Gas mask regulations.aux)
+[6]
+<C:/Users/akos/Downloads/itaa-gud.png, id=24, 1084.05pt x 1082.0425pt>
+File: C:/Users/akos/Downloads/itaa-gud.png Graphic file (type png)
+<use C:/Users/akos/Downloads/itaa-gud.png>
+Package pdftex.def Info: C:/Users/akos/Downloads/itaa-gud.png  used on input li
+ne 118.
+(pdftex.def)             Requested size: 142.25475pt x 142.25548pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7 <C:/Users/akos/Downloads/itaa-gud.png>] (Gas mask regulations.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -693,19 +708,20 @@ Package logreq Info: Writing requests to '"Gas mask regulations".run.xml'.
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13522 strings out of 467870
- 245716 string characters out of 5435193
+ 13539 strings out of 467870
+ 246254 string characters out of 5435193
  1101960 words of memory out of 5000000
- 42261 multiletter control sequences out of 15000+600000
- 633607 words of font info for 60 fonts, out of 8000000 for 9000
+ 42276 multiletter control sequences out of 15000+600000
+ 634113 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,117p,713b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3LaTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3LaTeX/fonts/type1/public/amsfont
-s/cm/cmsl12.pfb>
-Output written on "Gas mask regulations.pdf" (6 pages, 63645 bytes).
+ <C:\Users\akos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1200.pk><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/3
+LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/3LaTeX/fonts/type1/public/am
+sfonts/cm/cmsl12.pfb><D:/3LaTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "Gas mask regulations.pdf" (7 pages, 623016 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
